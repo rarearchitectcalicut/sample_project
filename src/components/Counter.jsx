@@ -28,7 +28,7 @@ function Counter(){
                 <span className="text-xs font-semibold uppercase tracking-wider text-slate-400">
                     Counter
                 </span>
-                <h1 className="text-3xl font-bold text-white tracking-tight">
+                <h1 className="text-3xl font-bold text-yellow-500 tracking-tight">
                     {count}
                 </h1>
             </div>
